@@ -1,0 +1,18 @@
+header{
+    background-color: brown;
+    border: 1px solid black;
+}
+nav{
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+.myteacherheader{
+    background-color: green;
+    border: 1px solid black;
+
+}
+#mydiv{
+    background-color: lightcoral;
+    border: 1px solid black;
+
+}
